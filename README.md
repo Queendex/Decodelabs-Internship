@@ -1,2 +1,2 @@
 # Decodelabs-Internship
-DecodeLab Internship weekly project work space
+DecodeLab Internship project work space

@@ -54,13 +54,13 @@ Monthly and quarterly sales trends were analyzed.
 * January consistently recorded the highest monthly sales.
 * Lower sales were observed during later quarters in most years.
 * # Correlation Analysis
-* Variables.                    Correlation
-* Quantity vs Unit Priceb          0.015
-* Quantity vs Total Price          0.62
-* Quantity vs Items in Cart        0.65
-* Items in Cart vs Total Price     0.39
-* Unit Price vs Total Price        0.72
-* Unit Price vs Items in Cart      0.0006
+* Variables -                  Correlation
+* Quantity vs Unit Price -        0.015
+* Quantity vs Total Price -        0.62
+* Quantity vs Items in Cart -      0.65
+* Items in Cart vs Total Price -    0.39
+* Unit Price vs Total Price -        0.72
+* Unit Price vs Items in Cart -     0.0006
 # Key Insights
 * Total Price has a strong positive relationship with Quantity.
 * Total Price has a strong positive relationship with Unit Price.

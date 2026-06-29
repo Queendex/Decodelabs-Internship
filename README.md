@@ -38,14 +38,14 @@ Prepare the raw retail sales dataset for analysis by ensuring the data is accura
 # Project 2: Exploratory Data Analysis (EDA)
 Objective
 * Explore the cleaned retail sales dataset to identify trends, patterns, relationships, and business insights
-#1.  Descriptive Statistics
+# 1 Descriptive Statistics
  Python Programming was used to verify the descriptive statistics across some important  key variables in the dataset.
 # Key Findings
 * The dataset contains 1,200 transactions.
 * Customers purchase approximately 3 items per transaction.
 * Average transaction value is approximately 1,054.
 * Sales values show considerable variation across transactions.
-#2.Sales Trend Analysis
+# 2.Sales Trend Analysis
 Monthly and quarterly sales trends were analyzed.
 # Findings
 * 2023 recorded the highest overall sales.

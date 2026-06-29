@@ -62,10 +62,8 @@ Monthly and quarterly sales trends were analyzed.
 * Unit Price vs Total Price -        0.72
 * Unit Price vs Items in Cart -     0.0006
 # Key Insights
-* Total Price has a strong positive relationship with Quantity.
-* Total Price has a strong positive relationship with Unit Price.
-* Quantity has almost no relationship with Unit Price.
-* Items in Cart has a weak positive relationship with Total Price.
+* Total Price is strongly influenced by  Quantity and Unit Price.This means that increasing the number of items purchased or selling higher pitched products can significantly increase sales revenue.
+* Quantity has almost no relationship with Unit Price and Items in Cart has a weak positive relationship with Total Price.This means that product pricing does not affect how many items customers choose to buy.
 # Outlier Detection
 * No outliers were found for Quantity.
 * No outliers were found for Unit Price.

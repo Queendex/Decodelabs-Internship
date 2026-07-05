@@ -33,7 +33,8 @@
 * Power BI (for visualization)
 # 📉 Model Output
 The model predicts:
-* Whether a customer will make a repeat purchase
+*  Sales are stable and predictable.
+* Quantity and price are the main revenue drivers.
 * Customer behavior classification for business insights
 # 📊 Business Value
 * Improves customer retention strategies

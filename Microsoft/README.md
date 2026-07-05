@@ -1,5 +1,5 @@
-# Exploratory Data Analysis (EDA) of Retail Sales Data
-# Project 1  and 2 Overview
+# Exploratory Data Analysis (EDA) of E_Commerce Sales Data
+# Project 1  and 2 Overview 
 # This project focuses on performing Exploratory Data Analysis (EDA) on a retail sales dataset containing 1,200 customer transactions. The objective was to explore the data, identify trends and patterns, detect outliers, analyze relationships between variables, and generate business insights to support data-driven decision-making.
 # Objectives
 1. Perform descriptive statistical analysis.

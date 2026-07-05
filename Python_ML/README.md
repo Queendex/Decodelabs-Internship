@@ -3,7 +3,7 @@
 * This project focuses on analyzing customer transaction data and building a supervised machine learning model to predict customer behavior.
 *  The goal is to identify whether a customer is likely to make a repeat purchase, helping businesses improve customer retention strategies and decision-making.
 # 🎯 Objective
-1. Predict customer repeat purchase behavior (Yes / No)
+1. Predict  sales per order
 2. Understand key drivers of customer loyalty
 3. Provide insights for business decision-making
 4. Prepare data outputs for visualization in Power BI

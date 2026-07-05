@@ -2,9 +2,9 @@
 
 # 🛠 Tools Used
 - Microsoft Power BI
-- Microsoft Excel (data preparation)
 - DAX (for measures and calculations)
-- 
+
+  
 #  🎯 Goal
 * The goal of this project is to create visual representations of data to communicate insights clearly and effectively.
 # 📌 Project Description

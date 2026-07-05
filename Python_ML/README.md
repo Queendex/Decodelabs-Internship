@@ -11,10 +11,12 @@
 # This project uses supervised learning, where the model is trained on labeled data.
  - Model Used:
  - Random Forest Classifier
+ - Linear Regression
+ - KMeans Clustering
 # 📊 Features Used
-Number of Orders
-Total Spend per Customer
-These features were derived from transactional data using aggregation techniques.
+- Number of Orders
+- Total Spend per Customer
+* These features were derived from transactional data using aggregation techniques.
 # ⚙️ Project Workflow
 * Feature Engineering (Customer-level aggregation)
 * Creation of Target Variable (Repeat Customer)

@@ -55,6 +55,9 @@ Total Price
 # Findings:
 * No outliers were detected for Quantity or Unit Price.
 * Eight  high-value outliers were identified in Total Price, representing unusually expensive transactions.
+* Outlier analysis identified 8 high-value transactions out of 1,200 records (approximately 0.7% of the dataset).
+* These outliers were investigated to determine whether they represented data entry errors or genuine high-value sales.
+*  Since they were considered valid business transactions, they were retained to ensure the regression model reflects real-world purchasing behavior."
 # Correlation Analysis
 The following relationships were identified:
 Variables

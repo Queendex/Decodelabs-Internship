@@ -63,10 +63,10 @@ Instagram is the strongest marketing channel
 Certain products (chairs) outperform others significantly
 Order completion rate is relatively low due to high cancellations and returns
 * These insights can support:
-Marketing optimization
-Product strategy improvements
-Customer experience enhancement
-Operational efficiency review
+* Marketing optimization
+* Product strategy improvements
+* Customer experience enhancement
+* Operational efficiency review
 
 # 📈 Outcome
 The project successfully communicates data insights through clear and effective visual representations, making complex data easier to understand and interpret.

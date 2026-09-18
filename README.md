@@ -2,7 +2,7 @@
 DecodeLab Internship project work space
 # About me
 Name: Ezeanochie Chidera Queeneth,a
-2026 virtual data analyst intern in DecodeLabs Organization.
+2026 virtual data analyst intern in DecodeLabs
 # DataSet
 An E-Commerce dataset comprising of 1200rows and 14 columns.The variables are: Date  | Product  |Quantity  |Unit Price| Items in Cart  |Total Price| Payment Method
 |Customer Information
